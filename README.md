@@ -3,4 +3,4 @@ If you don`t have one of these or a simmillar system you wouldn`t probably use t
 function is to provide a simple accsess to them and also a few other things that good python programmers doesn`t
 need, cause of their experience.
 
-Copyright 2020 Jan-Ole G. (J-O. Technik)# joklib_library
+Copyright 2020 Jan-Ole G. (J-O. Technik)
