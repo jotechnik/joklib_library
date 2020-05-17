@@ -1,11 +1,11 @@
 Installation:
 
-You can install this library easily, if you have Python version above 3.0 installed by typing:
-  
-pip install joklib==0.1
-  
-If you have more than one Python version installed, type:
-pip3 install joklib==0.1
+  You can install this library easily, if you have Python version above 3.0 installed by typing:
+
+  pip install joklib==0.1
+
+  If you have more than one Python version installed, type:
+  pip3 install joklib==0.1
   
   
  
